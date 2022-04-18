@@ -56,6 +56,10 @@ const Home = () => {
                 {
                   id:"la",
                   label:"Los Angeles"
+                },
+                {
+                  id:"sg",
+                  label:"Singapore"
                 }
 
               ]}
